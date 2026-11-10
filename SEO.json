@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "parking-management-system",
+  "description": "Parking Management System — Facilities Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Parking system for slots, tickets, season passes, ANPR hooks, and revenue reports. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "facilities",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/parking-management-system"
+}
